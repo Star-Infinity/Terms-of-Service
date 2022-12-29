@@ -1,4 +1,4 @@
-## Star-infinity團隊 服務條款
+# Star-infinity團隊 服務條款
 
 使用本團隊的機器人前，請詳閱服務條款。<br>
 <br>
